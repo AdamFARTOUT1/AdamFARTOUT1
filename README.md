@@ -22,7 +22,8 @@ I am currently navigating my **first year of the engineering cycle** specializin
 - 🌱 **I’m currently exploring:** Cloud Computing & DevOps practices.
 - 💻 **My background:** Strong foundation in **C** and **Python**.
 - 👯 **I’m looking to collaborate on:** AI-integrated web projects or Open Source tools.
-- 📫 **How to reach me:** [Insert Your Email Here]
+- 📫 **How to reach me:** Adamfartout1@gmail.com
+- 🔗 **Linkedin:** https://www.linkedin.com/in/adam-fartout-4042972b0/
 
 ---
 
@@ -31,6 +32,7 @@ I am currently navigating my **first year of the engineering cycle** specializin
 **Languages I speak:**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
