@@ -1,90 +1,64 @@
-<h1 align="center">👋 Hi, I’m Adam Fartout</h1>
-<h3 align="center">Full Stack Developer | Passionate about Web & Systems</h3>
+<div align="center">
+  <h1>Hi there, I'm Adam Fartout! 👋</h1>
+  <h3>🚀 1st Year Engineering Student | Digital Transformation & AI</h3>
+  <p>Student at <b>ENSA Al Hoceima</b></p>
+
+  <a href="https://github.com/AdamFARTOUT1">
+    <img src="https://komarev.com/ghpvc/?username=AdamFARTOUT1&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+</div>
 
 ---
 
-## 🧠 About Me
+### 👨‍💻 About Me
 
-- 🎓 Student at FST Settat
-- 💻 I build apps with HTML, C & Web tech
-- 🌐 Always learning new languages and frameworks
-- 📬 Reach me if you want to collaborate!
+I am currently navigating my **first year of the engineering cycle** specializing in **Digital Transformation and Artificial Intelligence**. I love combining strong algorithmic foundations with modern development tools.
 
----
-
-## 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📁 [Gestion_Conges](https://github.com/AdamFARTOUT1/Gestion_Conges)
-📌 *Un projet en langage C qui gère les congés salariés.*
+- 🔭 **I’m currently studying:**
+  - **Java OOP** (Object Oriented Programming)
+  - **Web Development** (Design & Implementation)
+  - **Functional Programming** with Python
+  - **IT Project Management** & Agile Methodologies
+- 🌱 **I’m currently exploring:** Cloud Computing & DevOps practices.
+- 💻 **My background:** Strong foundation in **C** and **Python**.
+- 👯 **I’m looking to collaborate on:** AI-integrated web projects or Open Source tools.
+- 📫 **How to reach me:** [Insert Your Email Here]
 
 ---
 
-### 🌐 [movie_viewer](https://github.com/AdamFARTOUT1/movie_viewer)
-📌 *Interface HTML pour visualiser des films (movie viewer).*
+### 🛠️ Tech Stack & Tools
+
+**Languages I speak:**
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+**Tools & Infrastructure:**
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamFARTOUT1&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamFARTOUT1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Adam's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamFARTOUT1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
+</div>
 
----
-
-## 💬 Connect with Me
-
-- 🔗 LinkedIn: https://linkedin.com/in/tonprofil
-- 📧 Email: tonemail@example.com
-
-<h1 align="center">👋 Hi, I’m Adam Fartout</h1>
-<h3 align="center">Full Stack Developer | Passionate about Web & Systems</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamFARTOUT1&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+</div>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Student at FST Settat
-- 💻 I build apps with HTML, C & Web tech
-- 🌐 Always learning new languages and frameworks
-- 📬 Reach me if you want to collaborate!
-
----
-
-## 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📁 [Gestion_Conges](https://github.com/AdamFARTOUT1/Gestion_Conges)
-📌 *Un projet en langage C qui gère les congés salariés.*
-
----
-
-### 🌐 [movie_viewer](https://github.com/AdamFARTOUT1/movie_viewer)
-📌 *Interface HTML pour visualiser des films (movie viewer).*
-
----
-
-## 📊 GitHub Stats
-
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamFARTOUT1&show_icons=true&theme=tokyonight)
-
----
-
-## 💬 Connect with Me
-
-- 🔗 LinkedIn: https://linkedin.com/in/tonprofil
-- 📧 Email: tonemail@example.com
-
+<p align="center">
+  <i>Let's code the future of Digital Transformation together! ☁️🤖</i>
+</p>
